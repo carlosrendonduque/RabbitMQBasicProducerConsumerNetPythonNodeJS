@@ -2,7 +2,21 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      
+      "Newtonsoft.Json/12.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "RabbitMQ.Client/6.2.1": {
+        "type": "package",
+        "dependencies": {
+          "System.Memory": "4.5.4",
+          "System.Threading.Channels": "4.7.1"
+        },
         "compile": {
           "lib/netstandard2.0/RabbitMQ.Client.dll": {}
         },
@@ -31,6 +45,37 @@
     }
   },
   "libraries": {
+    "Newtonsoft.Json/12.0.3": {
+      "sha512": "6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "type": "package",
+      "path": "newtonsoft.json/12.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "newtonsoft.json.12.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
     "RabbitMQ.Client/6.2.1": {
       "sha512": "kdcin0uz1b9xQPvlLOoa8Y2zQsfu7nRuTrcX02dCLVzwGVlsPp9AFgu1L3kRh4wSFEOGE03OVqpWKxaDlhuowQ==",
       "type": "package",
@@ -100,43 +145,36 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "Newtonsoft.Json >= 12.0.3",
       "RabbitMQ.Client >= 6.2.1"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\carlos.rendon\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\carlo\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Carlos\\RabbitMQ\\BasicProducerConsumer\\NetCore\\RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj",
-      "projectName": "RabbitMQ.Consumer",
-      "projectPath": "C:\\Carlos\\RabbitMQ\\BasicProducerConsumer\\NetCore\\RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj",
+      "projectUniqueName": "C:\\Carlos\\RabbitMQ\\BasicProducerConsumer\\NetCoreSimplified\\Producer\\Producer\\Producer.csproj",
+      "projectName": "Producer",
+      "projectPath": "C:\\Carlos\\RabbitMQ\\BasicProducerConsumer\\NetCoreSimplified\\Producer\\Producer\\Producer.csproj",
       "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-      "outputPath": "C:\\Carlos\\RabbitMQ\\BasicProducerConsumer\\NetCore\\RabbitMQ.Consumer\\obj\\",
-=======
-      "projectUniqueName": "C:\\Users\\carlos.rendon\\Documents\\RabbitMQNetNodeJSPython\\RabbitMQBasicProducerConsumerNetPythonNodeJS\\NetCore\\RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj",
-      "projectName": "RabbitMQ.Consumer",
-      "projectPath": "C:\\Users\\carlos.rendon\\Documents\\RabbitMQNetNodeJSPython\\RabbitMQBasicProducerConsumerNetPythonNodeJS\\NetCore\\RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj",
-      "packagesPath": "C:\\Users\\carlos.rendon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\carlos.rendon\\Documents\\RabbitMQNetNodeJSPython\\RabbitMQBasicProducerConsumerNetPythonNodeJS\\NetCore\\RabbitMQ.Consumer\\obj\\",
->>>>>>> b94752cf329e38ef192f5a5c057a4c8b63180ced
+      "outputPath": "C:\\Carlos\\RabbitMQ\\BasicProducerConsumer\\NetCoreSimplified\\Producer\\Producer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\carlos.rendon\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Users\\carlos.rendon\\Documents\\UiPath\\PublishDemoNoMessages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -153,6 +191,10 @@
     "frameworks": {
       "netcoreapp3.1": {
         "dependencies": {
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[12.0.3, )"
+          },
           "RabbitMQ.Client": {
             "target": "Package",
             "version": "[6.2.1, )"

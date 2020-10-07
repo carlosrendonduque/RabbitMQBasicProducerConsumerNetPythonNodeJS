@@ -1,0 +1,16 @@
+C:\Carlos\RabbitMQ\BasicProducerConsumer\NetCoreSimplified\Consumer\Consumer\bin\Debug\netcoreapp3.1\Consumer.exe
+C:\Carlos\RabbitMQ\BasicProducerConsumer\NetCoreSimplified\Consumer\Consumer\obj\Debug\netcoreapp3.1\Consumer.AssemblyInfoInputs.cache
+C:\Carlos\RabbitMQ\BasicProducerConsumer\NetCoreSimplified\Consumer\Consumer\obj\Debug\netcoreapp3.1\Consumer.AssemblyInfo.cs
+C:\Carlos\RabbitMQ\BasicProducerConsumer\NetCoreSimplified\Consumer\Consumer\bin\Debug\netcoreapp3.1\Consumer.deps.json
+C:\Carlos\RabbitMQ\BasicProducerConsumer\NetCoreSimplified\Consumer\Consumer\bin\Debug\netcoreapp3.1\Consumer.runtimeconfig.json
+C:\Carlos\RabbitMQ\BasicProducerConsumer\NetCoreSimplified\Consumer\Consumer\bin\Debug\netcoreapp3.1\Consumer.runtimeconfig.dev.json
+C:\Carlos\RabbitMQ\BasicProducerConsumer\NetCoreSimplified\Consumer\Consumer\bin\Debug\netcoreapp3.1\Consumer.dll
+C:\Carlos\RabbitMQ\BasicProducerConsumer\NetCoreSimplified\Consumer\Consumer\bin\Debug\netcoreapp3.1\Consumer.pdb
+C:\Carlos\RabbitMQ\BasicProducerConsumer\NetCoreSimplified\Consumer\Consumer\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Carlos\RabbitMQ\BasicProducerConsumer\NetCoreSimplified\Consumer\Consumer\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Carlos\RabbitMQ\BasicProducerConsumer\NetCoreSimplified\Consumer\Consumer\obj\Debug\netcoreapp3.1\Consumer.csprojAssemblyReference.cache
+C:\Carlos\RabbitMQ\BasicProducerConsumer\NetCoreSimplified\Consumer\Consumer\obj\Debug\netcoreapp3.1\Consumer.csproj.CoreCompileInputs.cache
+C:\Carlos\RabbitMQ\BasicProducerConsumer\NetCoreSimplified\Consumer\Consumer\obj\Debug\netcoreapp3.1\Consumer.csproj.CopyComplete
+C:\Carlos\RabbitMQ\BasicProducerConsumer\NetCoreSimplified\Consumer\Consumer\obj\Debug\netcoreapp3.1\Consumer.dll
+C:\Carlos\RabbitMQ\BasicProducerConsumer\NetCoreSimplified\Consumer\Consumer\obj\Debug\netcoreapp3.1\Consumer.pdb
+C:\Carlos\RabbitMQ\BasicProducerConsumer\NetCoreSimplified\Consumer\Consumer\obj\Debug\netcoreapp3.1\Consumer.genruntimeconfig.cache
