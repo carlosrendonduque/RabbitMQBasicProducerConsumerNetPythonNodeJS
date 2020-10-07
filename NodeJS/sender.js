@@ -15,7 +15,7 @@ amqp.connect('amqps://gxtsnvrg:W1Paf_bB1m5og1b-llWs2kJZl8DDcw7K@elephant.rmq.clo
         channel.assertQueue(QUEUE);
         // Step 4: Send message to queue
         var data = [{
-            name: 'Carlos Rendon',
+            name: 'Ruben',
             company: 'ZenIT',
             designation: 'Frontend developer'
          }];

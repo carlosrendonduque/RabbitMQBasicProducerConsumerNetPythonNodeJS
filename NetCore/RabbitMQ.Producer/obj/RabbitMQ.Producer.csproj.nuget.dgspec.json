@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Carlos\\RabbitMQ\\tutorialNetCore\\RabbitMQ.Producer\\RabbitMQ.Producer.csproj": {}
+    "C:\\Carlos\\RabbitMQ\\BasicProducerConsumer\\NetCore\\RabbitMQ.Producer\\RabbitMQ.Producer.csproj": {}
   },
   "projects": {
-    "C:\\Carlos\\RabbitMQ\\tutorialNetCore\\RabbitMQ.Producer\\RabbitMQ.Producer.csproj": {
+    "C:\\Carlos\\RabbitMQ\\BasicProducerConsumer\\NetCore\\RabbitMQ.Producer\\RabbitMQ.Producer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Carlos\\RabbitMQ\\tutorialNetCore\\RabbitMQ.Producer\\RabbitMQ.Producer.csproj",
+        "projectUniqueName": "C:\\Carlos\\RabbitMQ\\BasicProducerConsumer\\NetCore\\RabbitMQ.Producer\\RabbitMQ.Producer.csproj",
         "projectName": "RabbitMQ.Producer",
-        "projectPath": "C:\\Carlos\\RabbitMQ\\tutorialNetCore\\RabbitMQ.Producer\\RabbitMQ.Producer.csproj",
+        "projectPath": "C:\\Carlos\\RabbitMQ\\BasicProducerConsumer\\NetCore\\RabbitMQ.Producer\\RabbitMQ.Producer.csproj",
         "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-        "outputPath": "C:\\Carlos\\RabbitMQ\\tutorialNetCore\\RabbitMQ.Producer\\obj\\",
+        "outputPath": "C:\\Carlos\\RabbitMQ\\BasicProducerConsumer\\NetCore\\RabbitMQ.Producer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

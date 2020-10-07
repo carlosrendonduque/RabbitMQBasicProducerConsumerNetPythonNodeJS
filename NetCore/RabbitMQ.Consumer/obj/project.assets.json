@@ -115,11 +115,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Carlos\\RabbitMQ\\tutorialNetCore\\RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj",
+      "projectUniqueName": "C:\\Carlos\\RabbitMQ\\BasicProducerConsumer\\NetCore\\RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj",
       "projectName": "RabbitMQ.Consumer",
-      "projectPath": "C:\\Carlos\\RabbitMQ\\tutorialNetCore\\RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj",
+      "projectPath": "C:\\Carlos\\RabbitMQ\\BasicProducerConsumer\\NetCore\\RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj",
       "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-      "outputPath": "C:\\Carlos\\RabbitMQ\\tutorialNetCore\\RabbitMQ.Consumer\\obj\\",
+      "outputPath": "C:\\Carlos\\RabbitMQ\\BasicProducerConsumer\\NetCore\\RabbitMQ.Consumer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
