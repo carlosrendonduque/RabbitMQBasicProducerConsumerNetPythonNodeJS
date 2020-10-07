@@ -1,31 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Carlos\\RabbitMQ\\tutorialNetCore\\RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj": {}
+    "C:\\Users\\carlos.rendon\\Documents\\RabbitMQNetNodeJSPython\\RabbitMQBasicProducerConsumerNetPythonNodeJS\\NetCore\\RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj": {}
   },
   "projects": {
-    "C:\\Carlos\\RabbitMQ\\tutorialNetCore\\RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj": {
+    "C:\\Users\\carlos.rendon\\Documents\\RabbitMQNetNodeJSPython\\RabbitMQBasicProducerConsumerNetPythonNodeJS\\NetCore\\RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Carlos\\RabbitMQ\\tutorialNetCore\\RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj",
+        "projectUniqueName": "C:\\Users\\carlos.rendon\\Documents\\RabbitMQNetNodeJSPython\\RabbitMQBasicProducerConsumerNetPythonNodeJS\\NetCore\\RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj",
         "projectName": "RabbitMQ.Consumer",
-        "projectPath": "C:\\Carlos\\RabbitMQ\\tutorialNetCore\\RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj",
-        "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
-        "outputPath": "C:\\Carlos\\RabbitMQ\\tutorialNetCore\\RabbitMQ.Consumer\\obj\\",
+        "projectPath": "C:\\Users\\carlos.rendon\\Documents\\RabbitMQNetNodeJSPython\\RabbitMQBasicProducerConsumerNetPythonNodeJS\\NetCore\\RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj",
+        "packagesPath": "C:\\Users\\carlos.rendon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\carlos.rendon\\Documents\\RabbitMQNetNodeJSPython\\RabbitMQBasicProducerConsumerNetPythonNodeJS\\NetCore\\RabbitMQ.Consumer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\carlos.rendon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\carlos.rendon\\Documents\\UiPath\\PublishDemoNoMessages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

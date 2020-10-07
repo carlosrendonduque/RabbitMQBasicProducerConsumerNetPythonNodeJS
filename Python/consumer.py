@@ -19,7 +19,7 @@ channel.queue_declare(queue='codingtest', durable=True) # Declare a queue
 
 # create a function which is called on incoming messages
 def callback(ch, method, properties, body):
-  pdf_process_function(body)
+  codingtest_process_function(body)
 
 # set up subscription on the queue
 """ channel.basic_consume(queue='codingtest',

@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "4Jj2kLYWkEFwzi9dSS4cNmAsRhR2kYMV8Ug3dajwq1mjO4NkcTeJPSlp71mNlsLA6XvXmotFmFN45hLmOIKpEA==",
+  "dgSpecHash": "kDzVGqGq26AMLHpsrsUdpePdkq9bxQC8J8RemceC1bgUqzMMqjmfzMN66o5v/f7q8zEBEkrGbbf0GRU5/WgPxA==",
   "success": true,
-  "projectFilePath": "C:\\Carlos\\RabbitMQ\\tutorialNetCore\\RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj",
+  "projectFilePath": "C:\\Users\\carlos.rendon\\Documents\\RabbitMQNetNodeJSPython\\RabbitMQBasicProducerConsumerNetPythonNodeJS\\NetCore\\RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\carlo\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
-    "C:\\Users\\carlo\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
-    "C:\\Users\\carlo\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+    "C:\\Users\\carlos.rendon\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\carlos.rendon\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\carlos.rendon\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
   ],
   "logs": []
 }
