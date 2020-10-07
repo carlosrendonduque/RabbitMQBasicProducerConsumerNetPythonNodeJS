@@ -15,11 +15,6 @@ amqp.connect('amqps://gxtsnvrg:W1Paf_bB1m5og1b-llWs2kJZl8DDcw7K@elephant.rmq.clo
         channel.assertQueue(QUEUE);
         // Step 4: Send message to queue
         var data = [{
-<<<<<<< HEAD
-            name: 'Ruben',
-            company: 'ZenIT',
-            designation: 'Frontend developer'
-=======
             Cedula: '7894656',
             Nombre: 'Luis Duque',
             Salario: '$800.000',
@@ -100,7 +95,6 @@ amqp.connect('amqps://gxtsnvrg:W1Paf_bB1m5og1b-llWs2kJZl8DDcw7K@elephant.rmq.clo
                 HEFD: '3',
                 HEFN: '2',
              }
->>>>>>> b5d3a03747a7b32136a12f3f8fd35b127ed462e0
          }];
         //channel.sendToQueue(QUEUE, Buffer.from('Hola steven. Cedula: 12345, Salario:350'));
         channel.sendToQueue(QUEUE, Buffer.from(JSON.stringify(data)));
